@@ -1,0 +1,11 @@
+{
+  "name": "studies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "array.js",
+  "scripts": {
+    "array": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
