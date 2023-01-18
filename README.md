@@ -175,7 +175,7 @@ obj.text = "test"
 console.log(obj) // { text: 'aloha' }
 ```
 
-## 2. Has Own / Has Own Property
+## 3. Has Own / Has Own Property
 
 Check the object has the property specified, return true or false 
 
